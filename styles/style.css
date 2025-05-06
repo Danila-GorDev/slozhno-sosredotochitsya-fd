@@ -97,7 +97,7 @@
   line-height: 83%;
   grid-row: 2;
   justify-self: flex-start;
-  color: var(--header_color); 
+  color: var(--header_color);
 }
 
 .header__title::before {
