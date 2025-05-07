@@ -7,8 +7,9 @@
 :root.theme-light {
   --bg-img: url("../images/cover-image-light.png");
   --accent-color: #FF8DCB;
-  --bg-color: #fff;
+  --bg-color: #ffeef6;
   --button-hover: rgba(50, 49, 45, 0.4);
+  --color-h2: #353430;
   --link: #353430;
   --color-theme: #353430;
   --text-color: #353430;
@@ -24,8 +25,9 @@
   :root {
   --bg-img: url("../images/cover-image-light.png");
   --accent-color: #FF8DCB;
-  --bg-color: #fff;
+  --bg-color: #ffeef6;
   --button-hover: rgba(50, 49, 45, 0.4);
+  --color-h2: #353430;
   --link: #353430;
   --color-theme: #353430;
   --text-color: #353430;
